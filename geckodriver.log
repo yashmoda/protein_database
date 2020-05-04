@@ -1,0 +1,432 @@
+1582742982530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMr20Xy"
+1582742989550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582742989550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582742989551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582742989551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582742998382	Marionette	INFO	Listening on port 40447
+1582742998475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://swissadme.ch/marvinjs-14/js/lib/jquery-1.9.1.ui.min.js, line 5: ReferenceError: jQuery is not defined
+JavaScript error: http://swissadme.ch/js/inview.js, line 57: ReferenceError: jQuery is not defined
+JavaScript error: http://swissadme.ch/shared/navigationbar/js/navigationbar.js, line 1: ReferenceError: jQuery is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1140:3
+
+1582775420075	Marionette	INFO	Stopped listening on port 40447
+1582775436274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoXwvO3"
+1582775437365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582775437365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582775437366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582775437366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582775441450	Marionette	INFO	Listening on port 43049
+1582775441488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://swissadme.ch/marvinjs-14/js/lib/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://swissadme.ch/shared/js/flot/jquery.flot.labels.js, line 201: TypeError: $.plot is undefined
+JavaScript error: http://swissadme.ch/, line 339: TypeError: ZeroClipboard.Client is not a constructor
+JavaScript warning: http://swissadme.ch/marvinjs-14/js/lib/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://swissadme.ch/shared/js/flot/jquery.flot.labels.js, line 201: TypeError: $.plot is undefined
+JavaScript error: http://swissadme.ch/index.php, line 339: TypeError: ZeroClipboard.Client is not a constructor
+1582775479108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaAnK3I"
+1582775480188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582775480188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582775480188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582775480188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582775484963	Marionette	INFO	Listening on port 41091
+1582775485025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://swissadme.ch/marvinjs-14/js/lib/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://swissadme.ch/shared/js/flot/jquery.flot.labels.js, line 201: TypeError: $.plot is undefined
+JavaScript error: http://swissadme.ch/, line 339: TypeError: ZeroClipboard.Client is not a constructor
+JavaScript warning: http://swissadme.ch/marvinjs-14/js/lib/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://swissadme.ch/shared/js/flot/jquery.flot.labels.js, line 201: TypeError: $.plot is undefined
+JavaScript error: http://swissadme.ch/index.php, line 339: TypeError: ZeroClipboard.Client is not a constructor
+1582775519416	Marionette	INFO	Stopped listening on port 41091
+1582775554277	Marionette	INFO	Stopped listening on port 43049
+1582776646021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3j03RP"
+1582776647781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582776647782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582776647782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582776647782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582776652313	Marionette	INFO	Listening on port 41055
+1582776652340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582776820801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePWIR5m"
+1582776822279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582776822280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582776822280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582776822280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1582776826164	Marionette	INFO	Stopped listening on port 41055
+1582776827957	Marionette	INFO	Listening on port 34821
+1582776828020	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 32731, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1582776965151	Marionette	INFO	Stopped listening on port 34821
+1582776968040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecXF6gs"
+1582776969083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582776969083	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582776969084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582776969084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582776973528	Marionette	INFO	Listening on port 35859
+1582776973560	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 617, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1582777166187	Marionette	INFO	Stopped listening on port 35859
+1582777168763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHrAmgl"
+1582777169846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582777169846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582777169847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582777169847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582777173901	Marionette	INFO	Listening on port 41009
+1582777173988	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 966, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 966, Gecko_IOThread] WARNING: pipe error (113): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 966, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1582777266201	Marionette	INFO	Stopped listening on port 41009
+1582777268549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4VMAgG"
+1582777269500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582777269500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582777269500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582777269501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582777273451	Marionette	INFO	Listening on port 42437
+1582777273468	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1508): dconf-WARNING **: 04:23:14.496: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.514: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.515: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.515: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.560: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.560: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.662: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.864: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:46.865: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:47.448: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 218ms)
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:56.167: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-WARNING **: 04:24:59.470: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f2d2b8cd3d0' of type 'MaiAtkType139'
+console.error: "TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:603:5\n_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:367:18\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\nselectTool/<@resource://devtools/client/framework/toolbox.js:2484:12\n"
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:603:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:367:18
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+selectTool/<@resource://devtools/client/framework/toolbox.js:2484:12
+
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:24:59.900: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:25:21.434: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-CRITICAL **: 04:25:28.966: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1224): GLib-GObject-WARNING **: 04:26:15.048: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f2d34c07b00' of type 'MaiAtkType139'
+onPacket threw an exception: Error: Server did not specify an actor, dropping packet: {"audit":null,"from":null}
+Stack: onPacket@resource://devtools/shared/client/debugger-client.js:563:9
+send/<@resource://devtools/shared/transport/local-transport.js:70:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 563, column: 9
+console.error: (new Error("Server did not specify an actor, dropping packet: {\"audit\":null,\"from\":null}", "resource://devtools/shared/client/debugger-client.js", 563))
+onPacket threw an exception: Error: Server did not specify an actor, dropping packet: {"audit":null,"from":null}
+Stack: onPacket@resource://devtools/shared/client/debugger-client.js:563:9
+send/<@resource://devtools/shared/transport/local-transport.js:70:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 563, column: 9
+console.error: (new Error("Server did not specify an actor, dropping packet: {\"audit\":null,\"from\":null}", "resource://devtools/shared/client/debugger-client.js", 563))
+onPacket threw an exception: Error: Server did not specify an actor, dropping packet: {"audit":null,"from":null}
+Stack: onPacket@resource://devtools/shared/client/debugger-client.js:563:9
+send/<@resource://devtools/shared/transport/local-transport.js:70:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 563, column: 9
+console.error: (new Error("Server did not specify an actor, dropping packet: {\"audit\":null,\"from\":null}", "resource://devtools/shared/client/debugger-client.js", 563))
+onPacket threw an exception: Error: Server did not specify an actor, dropping packet: {"audit":null,"from":null}
+Stack: onPacket@resource://devtools/shared/client/debugger-client.js:563:9
+send/<@resource://devtools/shared/transport/local-transport.js:70:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 563, column: 9
+console.error: (new Error("Server did not specify an actor, dropping packet: {\"audit\":null,\"from\":null}", "resource://devtools/shared/client/debugger-client.js", 563))
+onPacket threw an exception: Error: Server did not specify an actor, dropping packet: {"audit":null,"from":null}
+Stack: onPacket@resource://devtools/shared/client/debugger-client.js:563:9
+send/<@resource://devtools/shared/transport/local-transport.js:70:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+Line: 563, column: 9
+console.error: (new Error("Server did not specify an actor, dropping packet: {\"audit\":null,\"from\":null}", "resource://devtools/shared/client/debugger-client.js", 563))
+console.error: (new Error("Connection closed, pending request to server1.conn0.child1/memoryActor6, type detach failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:162:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ndestroy@resource://devtools/client/memory/panel.js:62:32\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3518:32\ndestroy@resource://devtools/client/framework/toolbox.js:3447:28\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:788:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:809:26\n", "resource://devtools/shared/protocol/Front.js", 69))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 1224, Gecko_IOThread] WARNING: pipe error (147): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 1224, Gecko_IOThread] WARNING: pipe error (166): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 1224, Gecko_IOThread] WARNING: pipe error (198): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 1224, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1582777622283	Marionette	INFO	Stopped listening on port 42437
+1582777625301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1yDTTq"
+1582777628304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582777628304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582777628305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582777628305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582777633051	Marionette	INFO	Listening on port 45185
+1582777633123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582777650224	Marionette	INFO	Stopped listening on port 45185
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582777761265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuYaSpT"
+1582777762286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582777762287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582777762288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582777762288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582777766958	Marionette	INFO	Listening on port 35029
+1582777766988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582777884665	Marionette	INFO	Stopped listening on port 35029
+1582777890208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6i5083"
+1582777891238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582777891238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582777891239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582777891239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582777895102	Marionette	INFO	Listening on port 33301
+1582777895132	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 2660, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 2660, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1582778052967	Marionette	INFO	Stopped listening on port 33301
+1582778056161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilephvcVP"
+1582778057407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582778057407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582778057407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582778057407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582778061411	Marionette	INFO	Listening on port 42317
+1582778061482	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3378, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 3378, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1582778112534	Marionette	INFO	Stopped listening on port 42317
+1582778115736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKKdZA4"
+1582778116735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582778116735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582778116735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582778116735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582778120672	Marionette	INFO	Listening on port 42073
+1582778120758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3552, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1582778361525	Marionette	INFO	Stopped listening on port 42073
+1582778364856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile11aXrB"
+1582778366050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582778366050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582778366051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582778366051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582778370305	Marionette	INFO	Listening on port 40185
+1582778370397	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1582778489837	Marionette	INFO	Stopped listening on port 40185
+1582778494475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo59nfh"
+1582778495644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582778495644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582778495644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582778495644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582778499592	Marionette	INFO	Listening on port 35069
+1582778499688	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4494, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1582778525581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVX2tNP"
+1582778526706	Marionette	INFO	Stopped listening on port 35069
+1582778527144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582778527145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582778527145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582778527145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582778531496	Marionette	INFO	Listening on port 37883
+1582778531513	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4649, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4649, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4649, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1582778570252	Marionette	INFO	Stopped listening on port 37883
+1582778630745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2qfIKt"
+1582778631981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582778631981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582778631981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582778631982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582778636061	Marionette	INFO	Listening on port 46473
+1582778636163	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1583478970776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYm2Hvk"
+1583478979260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583478979260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583478979261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583478979261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583478988850	Marionette	INFO	Listening on port 44923
+1583478988954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+1583479047272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileECfkLl"
+1583479049497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583479049497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583479049497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583479049497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583479054418	Marionette	INFO	Listening on port 42599
+1583479054490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+1583479064493	Marionette	INFO	Stopped listening on port 42599
+1583479072432	Marionette	INFO	Stopped listening on port 44923
+1583479076817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletszzzn"
+1583479078725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583479078725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583479078725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583479078726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583479082856	Marionette	INFO	Listening on port 37407
+1583479082931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+1583479272645	Marionette	INFO	Stopped listening on port 37407
+1583479276054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNpUixI"
+1583479277009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583479277010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583479277010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583479277010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583479280458	Marionette	INFO	Listening on port 33959
+1583479280467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+1583479406185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSYcQuB"
+1583479407021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583479407021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583479407022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583479407022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 20194, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 20194, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1583479408840	Marionette	INFO	Stopped listening on port 33959
+1583479411527	Marionette	INFO	Listening on port 45565
+1583479411599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.a8aee3263acf3b647bd5.js, line 2: unreachable code after return statement
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1717: TypeError: currentPanel is undefined
+1583479637043	Marionette	INFO	Stopped listening on port 45565
