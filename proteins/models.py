@@ -26,6 +26,7 @@ class LipopeptideData(models.Model):
 class LipopeptideApplicationsData(models.Model):
     lipopeptide_id = models.ForeignKey(LipopeptideData)
     lipopeptide_application = models.TextField(null=True, blank=True)
+    application_description = models.TextField(null=True, blank=True)
     is_deleted = models.BooleanField(default=False)
     created_at = models.DateTimeField(default=timezone.now())
     modified_at = models.DateTimeField(auto_now=True)

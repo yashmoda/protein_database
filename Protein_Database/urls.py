@@ -25,6 +25,7 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^admet/', get_properties),
     url(r'^add_classification/', add_classification),
+    url(r'^add_regression/', add_regression),
     url(r'^add_references/', add_references),
     url(r'^add_lipopetide/', add_lipopetide),
     url(r'^add_properties/', add_properties),

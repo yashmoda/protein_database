@@ -9,7 +9,7 @@ class LipopeptideDataAdmin(admin.ModelAdmin):
 
 
 class LipopeptideApplicationsDataAdmin(admin.ModelAdmin):
-    list_display = ['lipopeptide_id', 'lipopeptide_application']
+    list_display = ['lipopeptide_id', 'lipopeptide_application', 'application_description']
     search_fields = ['lipopeptide_id', 'lipopeptide_application']
 
 

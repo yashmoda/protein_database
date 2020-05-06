@@ -191,8 +191,8 @@ def add_regression(request):
                         lipopeptide = LipopeptideData.objects.get(lipopeptide_name=peptide)
                         lipopeptide_instance=lipopeptide
                     lipopeptide_metabolism = LipopeptideMetabolismData.objects.create(lipopeptide_id=lipopeptide_instance,
-                                                                                      lipopeptide_metabolism_stage=row[2],
                                                                                       metabolism_model=row[1],
+                                                                                      lipopeptide_metabolism_stage=0,
                                                                                       metabolism_value=row[3],
                                                                                       metabolism_units=row[4])
                     print lipopeptide_metabolism.id
@@ -202,6 +202,7 @@ def add_regression(request):
     response1={}
     response1['success'] = True
     return JsonResponse(response1)
+
 
 def add_ligand(request):
     try:
@@ -238,15 +239,18 @@ def add_lipopetide(request):
                     # if peptide != last_peptide:
                     #     lipopeptide = LipopeptideData.objects.get(lipopeptide_name=peptide)
                     #     lipopeptide_instance=lipopeptide
+                    try:
+                        weight = float(row[5])
+                    except Exception as e:
+                        weight = 0.0
                     lipopeptide = LipopeptideData.objects.create(lipopeptide_name=row[0],
                                                                  lipopeptide_organism=row[1],
                                                                  lipopeptide_summary=row[2],
                                                                  lipopeptide_activity=row[3],
                                                                  molecular_formula=row[4],
-                                                                 molecular_weight=row[5],
+                                                                 molecular_weight=weight,
                                                                  canonical_smiles=row[6],
-                                                                 cas_number=row[7],
-                                                                 ec_number=row[8])
+                                                                 cas_number=row[7])
                     print lipopeptide.id
                     # last_peptide = peptide
     except Exception as e:
@@ -270,11 +274,13 @@ def add_applications(request):
                         lipopeptide = LipopeptideData.objects.get(lipopeptide_name=peptide)
                         lipopeptide_instance=lipopeptide
                     lipopeptide_ligand = LipopeptideApplicationsData.objects.create(lipopeptide_id=lipopeptide_instance,
-                                                                                    lipopeptide_application=row[1])
+                                                                                    lipopeptide_application=row[1],
+                                                                                    application_description=row[2])
                     print lipopeptide_ligand.id
                     last_peptide = peptide
     except Exception as e:
         print str(e)
+        print row[0] + "," + row[1] + "," + row[2]
     response1={}
     response1['success'] = True
     return JsonResponse(response1)
@@ -326,6 +332,7 @@ def add_properties(request):
                     last_peptide = peptide
     except Exception as e:
         print str(e)
+        print row[0] + "," + row[1] + "," + row[2]
     response1={}
     response1['success'] = True
     return JsonResponse(response1)
